@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Poppins&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #08D9D6;
+    background-size: cover;
+    font-size: 20px;
+    color: #0F4C75;
+}
+
+nav {
+    list-style: none;
+    display: flex;
+
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    font-family: 'Fira Code', monospace;
+    text-align: center;
+    font-size: 26px;
+    background-size: cover;
+    height: 200;
+    width: 300;
+}
+
+h1 {
+    font-family: 'Source Code Pro', monospace;
+    ;
+    background-color: #E3CAA5;
+    font-size: 23px;
+}
+
+button {
+    background-color: #00a38d;
+    border-radius: 0.6rem;
+    border-style: none;
+    color: #e0faff;
+    cursor: pointer;
+    font-size: 1rem;
+}
